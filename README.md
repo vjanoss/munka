@@ -1,2 +1,2 @@
 # munka
-Munkaállomány
+Munkaállományok
